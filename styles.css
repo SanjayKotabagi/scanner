@@ -100,3 +100,20 @@ iframe{
     display: flex;
     justify-content: center;
 }
+
+footer{
+    visibility: hidden;
+}
+
+.cfooter {
+    text-align: right;
+    margin-top: 20px;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+}
+
+.cfooter a {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
